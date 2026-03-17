@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mohamed-5938ab28a/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Korya8)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enthrj3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF4B4B?style=for-the-badge&logo=notion&logoColor=white)](https://aboard-drop-6d7.notion.site/Flutter-Developer-2427990c6fad808d8c72f2ebaabb3604?pvs=74)
 [![Resume](https://img.shields.io/badge/RESUME-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16IyKy0mZSq3HXVH10EeRnz9fFSO8Alcc/view)
 
