@@ -3,60 +3,53 @@
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mohamed-5938ab28a/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Korya8)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF4B4B?style=for-the-badge&logo=notion&logoColor=white)](https://aboard-drop-6d7.notion.site/Flutter-Developer-2427990c6fad808d8c72f2ebaabb3604?pvs=74)
 [![Resume](https://img.shields.io/badge/RESUME-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Wpl_YewRVVTflzWfG80OCBxLI1_Nqukm/view?usp=sharing)
 
 </div>
 
-<br>
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Flutter Developer**.
+- 🔭 I’m currently working as a **Flutter Developer**, focusing on professional and high-performance mobile/web solutions.
 
-- 🌱 I’m currently focused on building a **[Standard Flutter Templates Catalog](https://github.com/Korya0/Flutter-Standard-Library)** 🚀.
+- 👨‍💻 **Code Philosophy**: "Good code is like a good joke: if you have to explain it, it's not that good."
 
-- 👯 I’m looking to collaborate on **Open Source Packages** and high-performance mobile solutions.
+- 🎓 **B.Sc. @ HIMIT**: Currently pursuing my degree in Computer Science (Expected 2026).
 
-- 👨💻 All of my projects and tools are available at **[My Repository](https://github.com/Korya0)**.
+- 🏆 **NTI Alumnus**: Achieved a **perfect score of 100/100** in the Flutter Developer Internship at the National Telecommunication Institute. [**Certificate**](https://drive.google.com/file/d/1DiA9E64teOhpFkgzaA5GjxVm2P1-udQ-/view?usp=sharing)
 
-- ⚡ Fun fact: I believe that **"Good code is like a good joke: if you have to explain it, it's not that good."**
+- 🌱 **Infrastructure Builder**: Currently focused on building the **[Standard Flutter Templates Catalog](https://github.com/Korya0/Flutter-Standard-Library)** 🚀 to streamline development.
+
 
 <br>
 
 ---
 
-## 🔥 Featured Project: [Sana (سَـنَـا)](https://github.com/Korya0/Sana)
+## 🔥 Featured Projects
 
-**Sana** is a comprehensive Islamic companion app designed with a focus on high performance and a clean, modern user interface, serving the Muslim community worldwide.
+<div align="center">
 
-<p align="left">
-  <a href="https://sana0.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Website-D4AF37?style=for-the-badge&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.sana.muslim.app">
-    <img src="https://img.shields.io/badge/📱_Google_Play-00C853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🍎_App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61585568923187">
-    <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
+| [سَـنَـا](https://github.com/Korya0/Sana) | [BookFlick](https://github.com/Korya0/BookFlick) | [ItLegend Challenge](https://github.com/Korya0/itlegend_flutter_challenge_mahmoud_mohamed) |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/Korya0/Sana/master/.github/screenshots/Group%205.png" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/BookFlick/main/assets/demo/using_in_korya0readme.png" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/itlegend_flutter_challenge_mahmoud_mohamed/main/assets/screenshot/Offers%20age.png?raw=true" height="250" /> |
+| **Islamic Companion** | **Google Books Explorer** | **Clean Architecture** |
+| [Play Store](https://play.google.com/store/apps/details?id=com.sana.muslim.app) \| [Web](https://sana0.vercel.app/) | [YouTube Demo](https://youtube.com/shorts/2SgHiY1CKmE) | [APK Download](https://github.com/Korya0/itlegend_flutter_challenge_mahmoud_mohamed/releases) |
+
+
+</div>
+
 
 ---
 
-<br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<br>
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Languages and Tools:
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma,postman,github,vscode,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,figma,github" /><br>
 </div>
 
 <br>
