@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahmoud+Mohamed!+😎"/>
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mohamed-5938ab28a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudk25/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF4B4B?style=for-the-badge&logo=notion&logoColor=white)](https://aboard-drop-6d7.notion.site/Flutter-Developer-2427990c6fad808d8c72f2ebaabb3604?pvs=74)
 [![Resume](https://img.shields.io/badge/RESUME-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1r-W0WMnYiuT5zsfhlNli7PwiM4unWVY-/view?usp=sharing)
 
@@ -11,15 +11,15 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Flutter Developer**, focusing on professional and high-performance mobile/web solutions.
+- 🔭 I’m currently working as a **Flutter Developer**, focusing on professional and **high-performance** mobile/web solutions (Check out **Imposter**).
 
-- 👨‍💻 **Code Philosophy**: "Good code is like a good joke: if you have to explain it, it's not that good."
+- 👨💻 **Code Philosophy**: "Good code is like a good joke: if you have to explain it, it's not that good."
 
 - 🎓 **B.Sc. @ HIMIT**: Currently pursuing my degree in Computer Science (Expected 2026).
 
 - 🏆 **NTI Alumnus**: Achieved a **perfect score of 100/100** in the Flutter Developer Internship at the National Telecommunication Institute. [**Certificate**](https://drive.google.com/file/d/1DiA9E64teOhpFkgzaA5GjxVm2P1-udQ-/view?usp=sharing)
 
-- 🌱 **Infrastructure Builder**: Currently focused on building the **[Standard Flutter Templates Catalog](https://github.com/Korya0/Flutter-Standard-Library)** 🚀 to streamline development.
+- 🎮 **Imposter Creator**: Developed a high-performance, custom-UI social deduction game focused on smooth 60 FPS animations and optimized memory management. **[Check it live](https://github.com/Korya0/imposter)** 🚀
 
 
 <br>
@@ -30,12 +30,11 @@
 
 <div align="center">
 
-| [سَـنَـا](https://github.com/Korya0/Sana) | [BookFlick](https://github.com/Korya0/BookFlick) | [ItLegend Challenge](https://github.com/Korya0/itlegend_flutter_challenge_mahmoud_mohamed) |
+| [Imposter](https://github.com/Korya0/imposter) | [سَـنَـا](https://github.com/Korya0/Sana) | [BookFlick](https://github.com/Korya0/BookFlick) |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Korya0/Sana/master/.github/screenshots/Group%205.png" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/BookFlick/main/assets/demo/using_in_korya0readme.png" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/itlegend_flutter_challenge_mahmoud_mohamed/main/assets/screenshot/Offers%20age.png?raw=true" height="250" /> |
-| **Islamic Companion** | **Google Books Explorer** | **Clean Architecture** |
-| [Play Store](https://play.google.com/store/apps/details?id=com.sana.muslim.app) \| [Web](https://sana0.vercel.app/) | [YouTube Demo](https://youtube.com/shorts/2SgHiY1CKmE) | [APK Download](https://github.com/Korya0/itlegend_flutter_challenge_mahmoud_mohamed/releases) |
-
+| <img src="https://raw.githubusercontent.com/Korya0/imposter/main/assets/readme_assets/app_gif.gif" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/Sana/master/.github/screenshots/Group%205.png" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/BookFlick/main/assets/demo/using_in_korya0readme.png" height="250" /> |
+| **High-Performance UI** | **Islamic Companion** | **Google Books Explorer** |
+| [GitHub](https://github.com/Korya0/imposter) \| [Download APK](https://docs.google.com/uc?export=download&id=1wD1dC-gDMqCCXVFKequ_WWDeH5JOKTfd) | [Play Store](https://play.google.com/store/apps/details?id=com.sana.muslim.app) \| [Web](https://sana0.vercel.app/) | [YouTube Demo](https://youtube.com/shorts/2SgHiY1CKmE) |
 
 </div>
 
