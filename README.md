@@ -19,7 +19,7 @@
 
 - 🏆 **NTI Alumnus**: Achieved a **perfect score of 100/100** in the Flutter Developer Internship at the National Telecommunication Institute. [**Certificate**](https://drive.google.com/file/d/1DiA9E64teOhpFkgzaA5GjxVm2P1-udQ-/view?usp=sharing)
 
-- 🎮 **Imposter Creator**: Developed a high-performance, custom-UI social deduction game focused on smooth 60 FPS animations and optimized memory management. **[Check it live](https://github.com/Korya0/imposter)** 🚀
+- 🎮 **Imposter Creator**: Developed a high-performance, custom-UI social deduction game focused on smooth 60 FPS animations and optimized memory management. **[Check it live](https://imposter-psi-rouge.vercel.app/)** 🚀
 
 
 <br>
@@ -30,11 +30,11 @@
 
 <div align="center">
 
-| [Imposter](https://github.com/Korya0/imposter) | [سَـنَـا](https://github.com/Korya0/Sana) | [BookFlick](https://github.com/Korya0/BookFlick) |
+| [Imposter](https://imposter-psi-rouge.vercel.app/) | [سَـنَـا](https://github.com/Korya0/Sana) | [BookFlick](https://github.com/Korya0/BookFlick) |
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/Korya0/imposter/main/assets/readme_assets/app_gif.gif" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/Sana/master/.github/screenshots/Group%205.png" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/BookFlick/main/assets/demo/using_in_korya0readme.png" height="250" /> |
 | **High-Performance UI** | **Islamic Companion** | **Google Books Explorer** |
-| [GitHub](https://github.com/Korya0/imposter) \| [Download APK](https://docs.google.com/uc?export=download&id=1wD1dC-gDMqCCXVFKequ_WWDeH5JOKTfd) | [Play Store](https://play.google.com/store/apps/details?id=com.sana.muslim.app) \| [Web](https://sana0.vercel.app/) | [YouTube Demo](https://youtube.com/shorts/2SgHiY1CKmE) |
+| [Live Web](https://imposter-psi-rouge.vercel.app/) \| [Download APK](https://docs.google.com/uc?export=download&id=1wD1dC-gDMqCCXVFKequ_WWDeH5JOKTfd) | [Play Store](https://play.google.com/store/apps/details?id=com.sana.muslim.app) \| [Web](https://sana0.vercel.app/) | [YouTube Demo](https://youtube.com/shorts/2SgHiY1CKmE) |
 
 </div>
 
