@@ -32,9 +32,10 @@
 
 | [Imposter](https://imposter-psi-rouge.vercel.app/) | [سَـنَـا](https://github.com/Korya0/Sana) | [BookFlick](https://github.com/Korya0/BookFlick) |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Korya0/imposter/main/assets/readme_assets/app_gif.gif" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/Sana/master/.github/screenshots/Group%205.png" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/BookFlick/main/assets/demo/using_in_korya0readme.png" height="250" /> |
+| <img src="https://raw.githubusercontent.com/Korya0/imposter/main/assets/readme_assets/app_gif.gif" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/Sana/main/github_assets/sana_gif.gif" height="250" /> | <img src="https://raw.githubusercontent.com/Korya0/BookFlick/main/assets/demo/using_in_korya0readme.png" height="250" /> |
 | **High-Performance UI** | **Islamic Companion** | **Google Books Explorer** |
-| [Live Web](https://imposter-psi-rouge.vercel.app/) \| [Download APK](https://docs.google.com/uc?export=download&id=1wD1dC-gDMqCCXVFKequ_WWDeH5JOKTfd) | [Play Store](https://play.google.com/store/apps/details?id=com.sana.muslim.app) \| [Web](https://sana0.vercel.app/) | [YouTube Demo](https://youtube.com/shorts/2SgHiY1CKmE) |
+| [Live Web](https://imposter-psi-rouge.vercel.app/) \| [Download APK](https://docs.google.com/uc?export=download&id=1wD1dC-gDMqCCXVFKequ_WWDeH5JOKTfd) | [Play Store](https://play.google.com/store/apps/details?id=com.sana.muslim.app) \| [Web](https://sana0.vercel.app/) \| [Landing Page](https://korya0.github.io/sana-landing/) | [YouTube Demo](https://youtube.com/shorts/2SgHiY1CKmE) |
+
 
 </div>
 
